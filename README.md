@@ -5,6 +5,6 @@
 - 📫 How to reach me via email smwendwa916@gmail.com;0769758329...
 
 <!---
-shaddrack/shaddrack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+samuel/samuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
